@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/HorrorGameProject/Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Levels/00_MainMenu.umap",
+				"D:/HorrorGameProject/Unreal/Content/Project/Blueprints/Widgets/WBP_MainMenu.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Art/Materials/Mirror.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Art/Materials/360_F_290833675_z6kjKGr73ZbH3fy4tveVb4OM0QIzYu3O_Mat.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Art/Materials/Wall.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Art/Textures/360_F_290833675_z6kjKGr73ZbH3fy4tveVb4OM0QIzYu3O.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Blueprints/Gamemodes/BP_MainMenuGM.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Levels/_GENERATED/austi/CubeGridToolOutput_38A43686.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Levels/_GENERATED/austi/CubeGridToolOutput_7EF76492.uasset",
+				"D:/HorrorGameProject/Unreal/Content/Project/Levels/_GENERATED/austi/CubeGridToolOutput_A0BD30A8.uasset"
+			]
+		}
+	]
+}
